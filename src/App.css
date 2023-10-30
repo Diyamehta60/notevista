@@ -638,3 +638,10 @@ signup-body {
     color: white;
     margin-left: 10px;
 }
+
+.courseLink {
+    padding: 4% 0 !important;
+    background-color: #F1D6AB !important;
+    color: black !important;
+    font-weight: bold !important;
+}
